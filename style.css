@@ -1,0 +1,104 @@
+/* COMENTARIO NO CSS*/
+
+body{
+background-color: rgb(74, 45, 45);
+font-size: 15px;
+font-family:Arial, Helvetica, sans-serif;
+padding: 50px 40px 30px 20px;
+/*padding: top 50px;;
+padding: right 40px;;
+padding: bottom 30px;
+padding: left 20px;*/
+border: 1px solid #ccc;
+width: 700px;
+margin: auto;
+/*margin: 10px 10px 8px 8px;*/
+
+}
+
+
+h1{
+    color: whitesmoke;
+    font-size: 35px;
+    text-align: center;
+    text-indent: 50px;
+}
+
+
+/* Configuração de link para mudar de cor ao clicar em um link de página ou de arquivo*/
+a:houver{
+    color:whitesmoke;
+}   
+
+h2{
+    color: rgba(255, 255, 0, 0.84);
+    font-size: 25px;
+    text-transform:none;
+    text-align: center;
+    text-indent: 15px;
+    background-color:black;
+    border-bottom: 5px solid rgba(255, 255, 0, 0.84);
+   
+}
+
+h3{
+    color: whitesmoke;
+    font-size: 22px;
+    text-transform:none;
+    text-align: left;
+    text-indent: 15px;
+ 
+}
+
+p{
+    color: whitesmoke;
+    font-size: 15px;
+    text-align::after;
+    text-indent: 15px;
+    list-style-type: none;
+   
+}
+
+/* Classe imagem1_HTML para determinar o ajude à DIREITA do texto to menu*/
+.imagem1_HTML{
+    width: 150px;
+    height: 220px;
+    float: left;
+}
+
+h4{
+    color: whitesmoke;
+    font-size: 22px;
+    text-transform:none;
+    text-align: right;
+    text-indent: 15px;
+}
+
+ul li{
+    list-style-type: none;
+    color: whitesmoke;
+    text-align: right;
+}
+
+/* Classe imagem2_HTML para determinar o ajude à ESQUERDA do texto to menu*/
+.imagem2_HTML{
+    width: 220px;
+    height: 120px;
+    float:right;
+}
+
+/*.cargo{
+    color: whitesmoke;
+    font-size:15px;
+    text-size-adjust: right;
+    font-style: var(Arial);
+} */
+
+/* ID inicia com "#" somente um por página HTML*/
+#titulo{
+    color:whitesmoke;
+    font-size: 30px;
+    font-style: var(Arial);
+    text-align: left;
+    padding: auto;
+}
